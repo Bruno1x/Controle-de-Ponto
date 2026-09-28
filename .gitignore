@@ -1,0 +1,15 @@
+.venv/
+frontend/node_modules/
+__pycache__/
+.build*/
+build/
+dist/
+!frontend/dist/
+!frontend/dist/**
+*.spec.bak
+*.exe
+*.pdf
+*.zip
+diagnostico_formulario_2509.json
+.pytest_cache/
+.mypy_cache/
